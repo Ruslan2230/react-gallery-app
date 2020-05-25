@@ -29,7 +29,7 @@ body {
    display: inline-block;
    height: 100px;
    width: 100%;
-  object-fit: cover;
+   object-fit: cover;
  }
 
 .currentValue {
@@ -94,7 +94,7 @@ body {
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: space-between;
-  width: 100%;
+  width: 240px;
   height: 270px;
   border: 5px solid rgba(191, 153, 0, 0.7);
   margin-bottom: 10px;
